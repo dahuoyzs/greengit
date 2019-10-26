@@ -2,10 +2,11 @@
 # 我的github被绿了
 <p><center><a href='https://ibigfire.cn'  target="_Blank" ><img src = 'greegit.jpg'></a><img src = 'plan.jpg'></center></p>
 <br>
-# 简单说明 <br>
+#### 简单说明 
+<br>
 本项目是一个自生自灭的项目，会定期的自动更新骚句子。如果不出意外的话会按照上图的样子进行更新，所有不要天天来看。
 <hr>
-# 如想更绿->>> <a href='https://ibigfire.cn'  target="_Blank"> https://ibigfire.cn</a>
+#### 如想更绿 <a href='https://ibigfire.cn'  target="_Blank"> https://ibigfire.cn</a>
 <br><br>
 2019-10-26_17:07:33 <div id="post92" class="post92"> <article>相亲要求：日出而做，日落而息</article> </div>
 2019-10-26_17:08:11 <div id="post25" class="post25"> <cite>不想玩游戏，只想玩你</cite> </div>
