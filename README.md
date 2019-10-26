@@ -11,3 +11,4 @@
 2019-10-26_18:55:07 <div id="post55" class="post55"> <span>少女情怀总是湿</span> </div>
 2019-10-26_18:56:05 <div id="post49" class="post49"> <span>我可以给你我的所有，当然包括灵魂和肉体</span> </div>
 2019-10-26_18:57:05 <div id="post37" class="post37"> <font>友谊的小船说翻就翻，好好的直男说弯就弯。</font> </div>
+2019-10-26_18:58:04 <div id="post8" class="post8"> <font>"我结婚你一定要来" "为什么？" "因为没有新娘会很尴尬"</font> </div>
