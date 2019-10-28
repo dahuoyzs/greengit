@@ -34,3 +34,4 @@
 2019-10-28_07:00:02 <div id="post99" class="post99"> <div>沉迷丝袜日渐消瘦</div> </div>
 2019-10-28_08:00:03 <div id="post23" class="post23"> <q>“过年买什么礼物带回家呢” “带我”</q> </div>
 2019-10-28_09:00:07 <div id="post69" class="post69"> <span>你现在不珍惜我，我告诉你，等过了这个村，我下个村等你</span> </div>
+2019-10-28_10:00:07 <div id="post35" class="post35"> <article>Sometimes when I'm with you,I forget myself.</article> </div>
