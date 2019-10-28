@@ -48,3 +48,4 @@
 2019-10-28_21:00:10 <div id="post6" class="post6"> <article>不悔梦归处，只恨太匆匆</article> </div>
 2019-10-28_22:00:04 <div id="post36" class="post36"> <article>直接约好吗</article> </div>
 2019-10-28_23:00:08 <div id="post98" class="post98"> <div>如果哪天喝醉吻了你 不用原谅 我保证我是故意的</div> </div>
+2019-10-29_00:00:06 <div id="post18" class="post18"> <article>有些人，一旦错过了，真他妈谢天谢地</article> </div>
