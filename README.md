@@ -37,3 +37,4 @@
 2019-10-28_10:00:07 <div id="post35" class="post35"> <article>Sometimes when I'm with you,I forget myself.</article> </div>
 2019-10-28_11:00:03 <div id="post37" class="post37"> <div>很羡慕你们能和你们喜欢的人在一起，不像我，周围都是喜欢我的人。</div> </div>
 2019-10-28_12:00:04 <div id="post90" class="post90"> <span>我是那种只在乎钱的人吗？我在乎的是钱和你</span> </div>
+2019-10-28_13:00:04 <div id="post56" class="post56"> <q>我那么爱你，你能不能为我淑女点</q> </div>
