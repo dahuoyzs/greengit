@@ -36,3 +36,4 @@
 2019-10-28_09:00:07 <div id="post69" class="post69"> <span>你现在不珍惜我，我告诉你，等过了这个村，我下个村等你</span> </div>
 2019-10-28_10:00:07 <div id="post35" class="post35"> <article>Sometimes when I'm with you,I forget myself.</article> </div>
 2019-10-28_11:00:03 <div id="post37" class="post37"> <div>很羡慕你们能和你们喜欢的人在一起，不像我，周围都是喜欢我的人。</div> </div>
+2019-10-28_12:00:04 <div id="post90" class="post90"> <span>我是那种只在乎钱的人吗？我在乎的是钱和你</span> </div>
