@@ -88,3 +88,4 @@
 2019-10-30_13:00:05 <div id="post87" class="post87"> <p>做爱做的事，交配交的人。</p> </div>
 2019-10-30_14:00:04 <div id="post2" class="post2"> <font>坐等天黑，嘿嘿嘿</font> </div>
 2019-10-30_15:00:04 <div id="post48" class="post48"> <span>清晨醒来你和阳光都在便是我想要的未来</span> </div>
+2019-10-30_16:00:05 <div id="post60" class="post60"> <article>我的世界不允许你的消失，不管结局是否完美。</article> </div>
