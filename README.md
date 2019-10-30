@@ -87,3 +87,4 @@
 2019-10-30_12:00:05 <div id="post69" class="post69"> <article>“你知道我最喜欢喝什么吗？” “什么？” “呵护你。”</article> </div>
 2019-10-30_13:00:05 <div id="post87" class="post87"> <p>做爱做的事，交配交的人。</p> </div>
 2019-10-30_14:00:04 <div id="post2" class="post2"> <font>坐等天黑，嘿嘿嘿</font> </div>
+2019-10-30_15:00:04 <div id="post48" class="post48"> <span>清晨醒来你和阳光都在便是我想要的未来</span> </div>
