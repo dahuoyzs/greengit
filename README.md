@@ -106,3 +106,4 @@
 2019-10-31_07:00:03 <div id="post80" class="post80"> <span>我会等你的爱慢慢长大</span> </div>
 2019-10-31_08:00:03 <div id="post27" class="post27"> <div>我能帮你节省2T的硬盘 你能帮我节省两节电池么</div> </div>
 2019-10-31_09:00:04 <div id="post18" class="post18"> <span>姑娘，你就跟我敞开胸膛说亮话吧，我保证认真看你讲话。</span> </div>
+2019-10-31_10:00:04 <div id="post23" class="post23"> <p>你被操傻了么？</p> </div>
