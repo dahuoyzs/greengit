@@ -113,3 +113,4 @@
 2019-10-31_14:00:07 <div id="post38" class="post38"> <div>男:“你在干嘛？” 女:“1.3.5.7.9” 男:“我马上来。”</div> </div>
 2019-10-31_15:00:06 <div id="post14" class="post14"> <p>Your smile conquers my heart.</p> </div>
 2019-10-31_16:00:05 <div id="post62" class="post62"> <q>臭小子，皮痒了是吧，又和爸爸玩角色互换</q> </div>
+2019-10-31_17:00:04 <div id="post2" class="post2"> <q>今晚能采蘑菇吗？</q> </div>
