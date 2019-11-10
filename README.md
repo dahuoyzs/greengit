@@ -150,3 +150,4 @@
 2019-11-11_03:00:02 <div id="post80" class="post80"> <q>总之岁月漫长，然而值得等待</q> </div>
 2019-11-11_04:00:02 <div id="post45" class="post45"> <font>你再说一句不爱我 我就干的你下不了床</font> </div>
 2019-11-11_05:00:02 <div id="post62" class="post62"> <q>我的床上有两个枕头，你想睡哪边？</q> </div>
+2019-11-11_06:00:02 <div id="post79" class="post79"> <font>“你给我闭嘴。” “好，那你脱裤子吧。”</font> </div>
