@@ -160,3 +160,4 @@
 2019-11-11_13:00:01 <div id="post77" class="post77"> <cite>“忙什呢？亲爱的” “又想睡我是吧？”</cite> </div>
 2019-11-11_14:00:03 <div id="post85" class="post85"> <p>你吃过人肉吗？</p> </div>
 2019-11-11_15:00:02 <div id="post74" class="post74"> <article>就你好看，屁眼都是双眼皮的</article> </div>
+2019-11-11_16:00:02 <div id="post22" class="post22"> <div>我家床塌了，可以去你家睡觉吗?</div> </div>
