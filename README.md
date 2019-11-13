@@ -183,3 +183,4 @@
 2019-11-13_12:00:02 <div id="post95" class="post95"> <cite>三通了吗？</cite> </div>
 2019-11-13_13:00:02 <div id="post30" class="post30"> <p>你吃了什么春药，这么骚</p> </div>
 2019-11-13_14:00:02 <div id="post28" class="post28"> <div>我们外面草地看月亮吧</div> </div>
+2019-11-13_15:00:04 <div id="post71" class="post71"> <q>“想做你的一匹马” “为什么呀？” “你骑我的时候，也会对我说‘嫁’！”</q> </div>
