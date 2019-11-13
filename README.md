@@ -199,3 +199,4 @@
 2019-11-14_04:00:02 <div id="post82" class="post82"> <cite>孔子东游见两小儿便日！</cite> </div>
 2019-11-14_05:00:02 <div id="post14" class="post14"> <q>你还是走吧 就当没有我这个小炮友</q> </div>
 2019-11-14_06:00:02 <div id="post60" class="post60"> <cite>我喜欢在你肉体里面的感觉，很真实 我喜欢把你包在我里面，不管是肉体，还是魂魄</cite> </div>
+2019-11-14_07:00:01 <div id="post88" class="post88"> <span>对不起我不喜欢金针菇</span> </div>
