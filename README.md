@@ -193,3 +193,4 @@
 2019-11-13_22:00:03 <div id="post37" class="post37"> <cite>喜欢你显得太随便 说爱你又太庸俗 除了睡你 别的都太傻逼</cite> </div>
 2019-11-13_23:00:08 <div id="post2" class="post2"> <article>男人所说的内在美，指的是胸罩里面，而不是内心。</article> </div>
 2019-11-14_00:00:02 <div id="post44" class="post44"> <cite>用三寸舌头 量你口中柔长 对着腿间湿漉的星光 许下一个愿望 </cite> </div>
+2019-11-14_01:00:01 <div id="post18" class="post18"> <cite>情话是我抄的，但只说给你听是真的。</cite> </div>
