@@ -239,3 +239,4 @@
 2019-11-15_20:00:05 <div id="post25" class="post25"> <article>睡觉时还是好好的，醒来就血流成河了</article> </div>
 2019-11-15_21:00:03 <div id="post19" class="post19"> <font>死鬼，想死你了，人家帮你降火来了！</font> </div>
 2019-11-15_22:00:11 <div id="post29" class="post29"> <font>你知道最幸福的数字是几吗？ 8？6？ 都不对，是5 为什么？ 你把手伸出看看，（然后十指相扣）</font> </div>
+2019-11-15_23:00:07 <div id="post9" class="post9"> <div>不想吃糖想吃你，不想揉风想揉你。</div> </div>
