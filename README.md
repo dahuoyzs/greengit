@@ -242,3 +242,4 @@
 2019-11-15_23:00:07 <div id="post9" class="post9"> <div>不想吃糖想吃你，不想揉风想揉你。</div> </div>
 2019-11-18_00:00:06 <div id="post28" class="post28"> <cite>Mg+ZnSo4==MgSo4+Zn “你的镁夺走了我的锌”</cite> </div>
 2019-11-18_01:00:02 <div id="post65" class="post65"> <font>脚冷了吧？手冷了吧？ 过来！把手脚伸到我怀里</font> </div>
+2019-11-18_02:00:03 <div id="post39" class="post39"> <article>你妈妈和女朋友掉水里，你会先救谁？ 先救妈妈！因为在水里要和女朋友来一发</article> </div>
