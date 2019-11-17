@@ -243,3 +243,4 @@
 2019-11-18_00:00:06 <div id="post28" class="post28"> <cite>Mg+ZnSo4==MgSo4+Zn “你的镁夺走了我的锌”</cite> </div>
 2019-11-18_01:00:02 <div id="post65" class="post65"> <font>脚冷了吧？手冷了吧？ 过来！把手脚伸到我怀里</font> </div>
 2019-11-18_02:00:03 <div id="post39" class="post39"> <article>你妈妈和女朋友掉水里，你会先救谁？ 先救妈妈！因为在水里要和女朋友来一发</article> </div>
+2019-11-18_03:00:02 <div id="post82" class="post82"> <q>原谅我生来就是带枪的猎人，请勿对着枪口说任性！心中有爱，钢枪无情！</q> </div>
