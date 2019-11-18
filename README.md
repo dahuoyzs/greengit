@@ -255,3 +255,4 @@
 2019-11-18_12:00:03 <div id="post56" class="post56"> <div>“做个贼，早晨偷走你的棉被，夜晚偷走你的热吻。” </div> </div>
 2019-11-18_13:00:03 <div id="post82" class="post82"> <cite>你好猛</cite> </div>
 2019-11-18_14:00:03 <div id="post60" class="post60"> <article>醉酒后直接将你摁在墙上，粗暴的扯开你的衣服</article> </div>
+2019-11-18_15:00:02 <div id="post89" class="post89"> <q>走在寂静里，走在天上，而阴茎倒挂下来。 ---王小波</q> </div>
