@@ -6,7 +6,7 @@
 本项目是一个自生自灭的项目，会定期的自动更新骚句子。如果不出意外的话会按照上图的样子进行更新，所有不要天天来看。
 哎.漫长的等待，4个半月才能提交出来个 1 2 3 4 5
 <hr>
-<h3>如想更绿 <a href='https://ibigfire.cn'  target="_Blank"> https://ibigfire.cn</a></h3>
+<h3>如想更绿 <a href='https://ibigfire.cn'  target="_Blank"> https://bigfire.cn</a></h3>
 <br><br>
 
 2019-10-26_18:55:07 <div id="post55" class="post55"> <span>少女情怀总是湿</span> </div>
