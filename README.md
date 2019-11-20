@@ -272,3 +272,4 @@
 2019-11-20_05:00:01 <div id="post61" class="post61"> <span>我把她从女孩变成了女人，她把我从男人变成了穷人。</span> </div>
 2019-11-20_06:00:02 <div id="post57" class="post57"> <p>放开我，不要乱来啦</p> </div>
 2019-11-20_07:00:02 <div id="post37" class="post37"> <p>我知道你很想跟我做爱</p> </div>
+2019-11-20_08:00:02 <div id="post3" class="post3"> <p>我要睡觉了 要不要一起？</p> </div>
