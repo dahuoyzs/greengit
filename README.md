@@ -284,3 +284,4 @@
 2019-11-20_17:00:02 <div id="post32" class="post32"> <cite>躺好等艹了吗？ 保证艹到你讲方言</cite> </div>
 2019-11-20_18:00:02 <div id="post69" class="post69"> <p>有时候不想恋爱，只想上床</p> </div>
 2019-11-20_19:00:03 <div id="post19" class="post19"> <font>“你给我闭嘴。” “好，那你脱裤子吧。”</font> </div>
+2019-11-20_20:00:04 <div id="post24" class="post24"> <span>你完全就是个小傻子 算了我还是让着你吧</span> </div>
