@@ -6,7 +6,7 @@
 本项目是一个自生自灭的项目，会定期的自动更新骚句子。如果不出意外的话会按照上图的样子进行更新，所有不要天天来看。
 哎.漫长的等待，4个半月才能提交出来个 1 2 3 4 5
 <hr>
-<h3>如想更绿 <a href='https://ibigfire.cn'  target="_Blank"> https://bigfire.cn</a></h3>
+<h3>如想更绿 <a href='https://bigfire.cn'  target="_Blank"> https://bigfire.cn</a></h3>
 <br><br>
 
 2019-10-26_18:55:07 <div id="post55" class="post55"> <span>少女情怀总是湿</span> </div>
@@ -297,3 +297,4 @@
 2019-11-22_06:00:02 <div id="post89" class="post89"> <cite>我的套路比海还深，却从来不舍得用一条在你身上。</cite> </div>
 2019-11-22_07:00:02 <div id="post11" class="post11"> <span>没有耕坏的地，只有累死的牛</span> </div>
 2019-11-22_08:00:02 <div id="post57" class="post57"> <article>都喜欢干净的女人 却又喜欢把她弄脏</article> </div>
+2019-11-22_09:00:01 <div id="post73" class="post73"> <article>没有诗和远方我只想要你</article> </div>
