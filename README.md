@@ -298,3 +298,4 @@
 2019-11-22_07:00:02 <div id="post11" class="post11"> <span>没有耕坏的地，只有累死的牛</span> </div>
 2019-11-22_08:00:02 <div id="post57" class="post57"> <article>都喜欢干净的女人 却又喜欢把她弄脏</article> </div>
 2019-11-22_09:00:01 <div id="post73" class="post73"> <article>没有诗和远方我只想要你</article> </div>
+2019-11-22_10:00:02 <div id="post64" class="post64"> <span>我想把你放着床上 什么都不干 只干你</span> </div>
