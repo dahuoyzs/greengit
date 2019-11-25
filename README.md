@@ -338,3 +338,4 @@
 2019-11-25_23:00:05 <div id="post40" class="post40"> <span>别吸烟了，吸我吧，我超甜</span> </div>
 2019-11-26_00:00:03 <div id="post16" class="post16"> <font>“你在笑什么？”“没什么，就是刚才突然想到了你所以觉得很开心。”</font> </div>
 2019-11-26_01:00:01 <div id="post47" class="post47"> <cite>你的前半生没有我，那么就让我陪你走完后半生。</cite> </div>
+2019-11-26_02:00:03 <div id="post1" class="post1"> <p>人生就像卫生纸，没事尽量少扯</p> </div>
