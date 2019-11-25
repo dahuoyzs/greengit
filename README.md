@@ -330,3 +330,4 @@
 2019-11-25_15:00:02 <div id="post55" class="post55"> <font>为什么避孕套没有黑色的？因为黑色显瘦</font> </div>
 2019-11-25_16:00:03 <div id="post12" class="post12"> <p>我喜欢你脸红红的样子 更喜欢你气喘吁吁的样子</p> </div>
 2019-11-25_17:00:02 <div id="post39" class="post39"> <span>遇见你，是我最美丽的意外。</span> </div>
+2019-11-25_18:00:03 <div id="post24" class="post24"> <q>那你现在在哪？ 我在你心里</q> </div>
