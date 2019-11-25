@@ -342,3 +342,4 @@
 2019-11-26_03:00:02 <div id="post77" class="post77"> <q>心里有了你 眼里便全都是路人</q> </div>
 2019-11-26_04:00:02 <div id="post86" class="post86"> <article>别叫,忍住外面有人</article> </div>
 2019-11-26_05:00:03 <div id="post25" class="post25"> <article>醒来觉得甚是爱你</article> </div>
+2019-11-26_06:00:03 <div id="post3" class="post3"> <cite>我们都是务实的人，爱这种东西还是少说多做</cite> </div>
