@@ -391,3 +391,4 @@
 2019-11-29_04:00:02 <div id="post53" class="post53"> <cite>我晚上准备和你约炮 你准备一下</cite> </div>
 2019-11-29_05:00:02 <div id="post87" class="post87"> <cite>好想看你们撕逼啊</cite> </div>
 2019-11-29_06:00:02 <div id="post33" class="post33"> <span>牵着我的手，闭着眼睛走你也不会迷路。</span> </div>
+2019-11-29_07:00:02 <div id="post20" class="post20"> <span>我：想吃我妈做的东西吗？ 他：什么？ 我：我。</span> </div>
