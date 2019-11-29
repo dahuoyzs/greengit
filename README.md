@@ -394,3 +394,4 @@
 2019-11-29_07:00:02 <div id="post20" class="post20"> <span>我：想吃我妈做的东西吗？ 他：什么？ 我：我。</span> </div>
 2019-11-29_08:00:02 <div id="post87" class="post87"> <cite>你一百种样子 我一百种喜欢</cite> </div>
 2019-11-29_09:00:04 <div id="post96" class="post96"> <q>U drive me crazy</q> </div>
+2019-11-29_10:00:02 <div id="post18" class="post18"> <p>“下雪了你为什么不带帽子？” “因为啊，想和你一路白头啊～”</p> </div>
