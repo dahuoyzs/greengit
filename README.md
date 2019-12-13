@@ -477,3 +477,4 @@
 2019-12-13_18:00:04 <div id="post1" class="post1"> <article>花前月下，不如花钱日下。</article> </div>
 2019-12-13_19:00:03 <div id="post19" class="post19"> <q>别急你的太大了</q> </div>
 2019-12-13_20:00:05 <div id="post37" class="post37"> <article>我的一生（身），是我能够给你的最好礼物。</article> </div>
+2019-12-13_21:00:04 <div id="post42" class="post42"> <cite>"你开心吗?" "开啊，不开你怎么进来"</cite> </div>
