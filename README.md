@@ -502,3 +502,4 @@
 2019-12-16_19:00:13 <div id="post24" class="post24"> <font>一炮而红</font> </div>
 2019-12-16_20:00:49 <div id="post20" class="post20"> <span>最美莫过于未来有一天，睡前吻你，半夜抱你，醒来有你。</span> </div>
 2019-12-16_21:00:02 <div id="post47" class="post47"> <cite>唯愿风雨吉，处处皆是你</cite> </div>
+2019-12-16_22:00:02 <div id="post49" class="post49"> <q>春水初生，春林初盛，春风十里，不如你。</q> </div>
