@@ -504,3 +504,4 @@
 2019-12-16_21:00:02 <div id="post47" class="post47"> <cite>唯愿风雨吉，处处皆是你</cite> </div>
 2019-12-16_22:00:02 <div id="post49" class="post49"> <q>春水初生，春林初盛，春风十里，不如你。</q> </div>
 2019-12-16_23:00:03 <div id="post3" class="post3"> <article>我想你，也想睡你，更想睡醒有你</article> </div>
+2019-12-18_00:00:04 <div id="post86" class="post86"> <font>在和女朋友确定恋爱关系之前，带她去吃一次海鲜，如果这个女生很怕腥味，没关系，以后告诉她你的是柠檬味的</font> </div>
