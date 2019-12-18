@@ -514,3 +514,4 @@
 2019-12-18_07:00:03 <div id="post74" class="post74"> <span>今日青春女生，明日成功女性</span> </div>
 2019-12-18_08:00:04 <div id="post5" class="post5"> <span>天津，安徽，湖南，江西</span> </div>
 2019-12-18_09:00:02 <div id="post82" class="post82"> <span>哼，连对象都没有还编程！</span> </div>
+2019-12-18_10:00:03 <div id="post76" class="post76"> <cite>　聊“湿”永远不是目的，而是你爱她的一种方式。至于你唇齿张合间，能撩起几多惊涛骇浪，则全看她的体质，和你的功力。</cite> </div>
