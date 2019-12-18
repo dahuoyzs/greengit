@@ -521,3 +521,4 @@
 2019-12-18_14:00:05 <div id="post49" class="post49"> <cite>撩你无非是喜欢你 喜欢你无非是想啪啪你</cite> </div>
 2019-12-18_15:00:02 <div id="post8" class="post8"> <article>各位同学请好好学日语，将来有用。</article> </div>
 2019-12-18_16:00:03 <div id="post27" class="post27"> <p>我可以抱（爆）你吗宝贝</p> </div>
+2019-12-18_17:00:03 <div id="post24" class="post24"> <p>如果等的人是你，迟一点出现也没关系，但是不能早一点出来</p> </div>
