@@ -519,3 +519,4 @@
 2019-12-18_12:00:04 <div id="post73" class="post73"> <cite>我想穿过朋友圈去睡你</cite> </div>
 2019-12-18_13:00:05 <div id="post6" class="post6"> <div>或许你该发我几张你自己的黄图来缓解一下气氛</div> </div>
 2019-12-18_14:00:05 <div id="post49" class="post49"> <cite>撩你无非是喜欢你 喜欢你无非是想啪啪你</cite> </div>
+2019-12-18_15:00:02 <div id="post8" class="post8"> <article>各位同学请好好学日语，将来有用。</article> </div>
