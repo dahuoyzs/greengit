@@ -550,3 +550,4 @@
 2019-12-20_19:00:04 <div id="post52" class="post52"> <font>意见一致，我说了算 意见不一致，她说了算</font> </div>
 2019-12-20_20:00:05 <div id="post24" class="post24"> <q>死鬼，回来这么晚，人家好想你</q> </div>
 2019-12-20_21:00:02 <div id="post59" class="post59"> <font>只有和你在一起的时候 才不会去羡慕别人</font> </div>
+2019-12-20_22:00:05 <div id="post85" class="post85"> <font>我的床上有两个枕头，你想睡哪边？</font> </div>
