@@ -569,3 +569,4 @@
 2019-12-23_14:00:03 <div id="post71" class="post71"> <cite>我想把你占为己有，而你却是大众炮友</cite> </div>
 2019-12-23_15:00:01 <div id="post19" class="post19"> <div>你是我大旱三季唯一的雨水，是我绵延万里黑暗中唯一的光。</div> </div>
 2019-12-23_16:00:06 <div id="post84" class="post84"> <font>你一百种样子 我一百种喜欢</font> </div>
+2019-12-23_17:00:02 <div id="post76" class="post76"> <q>老来多健忘，唯不忘相思。</q> </div>
