@@ -573,3 +573,4 @@
 2019-12-23_18:00:02 <div id="post74" class="post74"> <article>何以解忧，唯...唯有抱抱你</article> </div>
 2019-12-23_19:00:04 <div id="post7" class="post7"> <q>这么大热天里单身狗可能会升级成为热狗吧</q> </div>
 2019-12-23_20:00:02 <div id="post95" class="post95"> <article>就这样，不要停。乖~</article> </div>
+2019-12-23_21:00:02 <div id="post88" class="post88"> <q>I'm hot,very hot!</q> </div>
