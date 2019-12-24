@@ -593,3 +593,4 @@
 2019-12-24_14:00:03 <div id="post32" class="post32"> <p>上过很多的床，其实从我的内心里，想睡的只有你一个</p> </div>
 2019-12-24_15:00:02 <div id="post27" class="post27"> <p>或许你该发我几张你自己的黄图来缓解一下气氛</p> </div>
 2019-12-24_16:00:02 <div id="post43" class="post43"> <cite>为什么哥哥会秒射，不会秒回？</cite> </div>
+2019-12-24_17:00:02 <div id="post71" class="post71"> <article>你为什么天天找我说话，想睡我吗！</article> </div>
