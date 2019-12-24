@@ -599,3 +599,4 @@
 2019-12-24_20:00:04 <div id="post51" class="post51"> <div>世间所有的美貌，闻起来都有金钱的味道</div> </div>
 2019-12-24_21:00:04 <div id="post48" class="post48"> <p>这一生有你，便不想适应别的指教</p> </div>
 2019-12-24_22:00:02 <div id="post41" class="post41"> <span>我就蹭蹭不进去</span> </div>
+2019-12-24_23:00:05 <div id="post28" class="post28"> <font>你知道吗，你笑起来很好看的，我一直都没跟你说</font> </div>
