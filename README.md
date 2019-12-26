@@ -646,3 +646,4 @@
 2019-12-26_19:00:03 <div id="post54" class="post54"> <article>“我智商低，别欺负我。” “没关系，白天我陪你数太阳，晚上我陪你数月亮。”</article> </div>
 2019-12-26_20:00:02 <div id="post36" class="post36"> <div>抗日英雄是谁？ 大姨妈。</div> </div>
 2019-12-26_21:00:08 <div id="post35" class="post35"> <article>I want to fuck you until you forget your name</article> </div>
+2019-12-26_22:00:05 <div id="post20" class="post20"> <q>钙氧钨氧（CAOWO）</q> </div>
