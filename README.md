@@ -652,3 +652,4 @@
 2019-12-27_01:00:02 <div id="post40" class="post40"> <font>既然喜欢了一个遥不可及的人，不如趁机多喜欢几个。</font> </div>
 2019-12-27_02:00:02 <div id="post58" class="post58"> <font>我一点都不爱运动，除了在你身上</font> </div>
 2019-12-27_03:00:01 <div id="post78" class="post78"> <article>爱你的小床说上就上</article> </div>
+2019-12-27_04:00:02 <div id="post80" class="post80"> <span>别养多肉了，养我，我肉更多 别吃糖果了，亲我，我嘴更甜</span> </div>
