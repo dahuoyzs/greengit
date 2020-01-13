@@ -683,3 +683,4 @@
 2020-01-13_08:00:04 <div id="post35" class="post35"> <cite>不要在晚上做任何决定 除了睡我</cite> </div>
 2020-01-13_09:00:25 <div id="post55" class="post55"> <div>我想和你一起起床</div> </div>
 2020-01-13_10:00:02 <div id="post48" class="post48"> <font>现在来找我</font> </div>
+2020-01-13_11:00:08 <div id="post3" class="post3"> <span>对付你，一根手指就够了！</span> </div>
