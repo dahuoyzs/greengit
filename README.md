@@ -682,3 +682,4 @@
 2020-01-13_07:00:02 <div id="post89" class="post89"> <article>男朋友对我超好的，每天晚上都要喂我喝酸奶才睡</article> </div>
 2020-01-13_08:00:04 <div id="post35" class="post35"> <cite>不要在晚上做任何决定 除了睡我</cite> </div>
 2020-01-13_09:00:25 <div id="post55" class="post55"> <div>我想和你一起起床</div> </div>
+2020-01-13_10:00:02 <div id="post48" class="post48"> <font>现在来找我</font> </div>
