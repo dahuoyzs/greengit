@@ -714,3 +714,4 @@
 2020-01-14_15:00:03 <div id="post1" class="post1"> <div>有一杯水听了一个冷笑话，然后它硬了</div> </div>
 2020-01-14_16:00:05 <div id="post7" class="post7"> <cite>头发为什么那么难干 就跟你一样</cite> </div>
 2020-01-14_17:00:02 <div id="post56" class="post56"> <article>我想吃麻辣烫</article> </div>
+2020-01-14_18:00:04 <div id="post25" class="post25"> <p>男朋友对我超好的，每天晚上都要喂我喝酸奶才睡</p> </div>
