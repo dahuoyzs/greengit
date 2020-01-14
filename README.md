@@ -711,3 +711,4 @@
 2020-01-14_12:00:06 <div id="post38" class="post38"> <article>睡觉时被女鬼压床，我已经有老婆了，该怎么拒绝</article> </div>
 2020-01-14_13:00:03 <div id="post71" class="post71"> <font>我的套路比海还深，却从来不舍得用一条在你身上。</font> </div>
 2020-01-14_14:00:04 <div id="post20" class="post20"> <q>我想和你一起起床</q> </div>
+2020-01-14_15:00:03 <div id="post1" class="post1"> <div>有一杯水听了一个冷笑话，然后它硬了</div> </div>
