@@ -763,3 +763,4 @@
 2020-01-19_16:00:02 <div id="post70" class="post70"> <cite>分不清宠爱和占有，只是想在睡前与你缠绵，深深吻你，睡梦中也紧抱着你</cite> </div>
 2020-01-19_17:00:13{"timestamp":"2020-01-19T09:00:13.424+0000","status":500,"error":"Internal Server Error","message":"cn.bigfire.piyixia.common.util.Result cannot be cast to java.lang.String","path":"/api/sentence"}
 2020-01-19_18:00:03 <div id="post20" class="post20"> <font>养一只猫养一只狗再养一个你逗逗猫虐虐狗再睡睡你</font> </div>
+2020-01-19_19:00:02 <div id="post49" class="post49"> <div>你带给我的没有爱，只有那三四秒的欢愉。</div> </div>
