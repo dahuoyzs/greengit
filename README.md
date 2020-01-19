@@ -774,3 +774,4 @@
 2020-01-20_03:00:02 <div id="post62" class="post62"> <div>早点睡吧，你喜欢的人可能已经跟别人睡着了</div> </div>
 2020-01-20_04:00:03 <div id="post1" class="post1"> <p>真想穿过微信来睡你</p> </div>
 2020-01-20_05:00:02 <div id="post39" class="post39"> <cite>你在干嘛呢？ 上班和想你</cite> </div>
+2020-01-20_06:00:02 <div id="post74" class="post74"> <article>遇见你之前我一直以为自己是百般挑剔的人，遇见你之后我才发现只要和你在一起就足够幸福</article> </div>
