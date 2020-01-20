@@ -787,3 +787,4 @@
 2020-01-20_16:00:02 <div id="post7" class="post7"> <span>感情是可以慢慢培养的，实在培养不了的话，可以试试在床上调教。</span> </div>
 2020-01-20_17:00:02 <div id="post86" class="post86"> <p>Wherever you are, I'm there with you.</p> </div>
 2020-01-20_18:00:02 <div id="post49" class="post49"> <span>不想养猫 也不想养狗 就想养你 毕竟养猪致富</span> </div>
+2020-01-20_19:00:02 <div id="post60" class="post60"> <q>春风十里，不如睡你。</q> </div>
