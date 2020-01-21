@@ -805,3 +805,4 @@
 2020-01-21_10:00:01 <div id="post80" class="post80"> <div>来来来，让你知道什么叫做爱</div> </div>
 2020-01-21_11:00:02 <div id="post76" class="post76"> <q>明天看电影记得把身份证带上</q> </div>
 2020-01-21_12:00:02 <div id="post9" class="post9"> <font>不是说好只聊天的吗？</font> </div>
+2020-01-21_13:00:01 <div id="post30" class="post30"> <span>只有拥有找男女朋友的能力和很多备胎，才能真正享受单身生活。</span> </div>
