@@ -821,3 +821,4 @@
 2020-01-22_02:00:02 <div id="post59" class="post59"> <div>你想睡我这件事我已经知道了</div> </div>
 2020-01-22_03:00:02 <div id="post14" class="post14"> <div>你就是我的药，一日见效</div> </div>
 2020-01-22_04:00:01 <div id="post42" class="post42"> <font>“在一起你会对我有多好？” “有求必硬”</font> </div>
+2020-01-22_05:00:02 <div id="post48" class="post48"> <article>我若是海，你就是岸 我想把所有的浪都拍在你身</article> </div>
