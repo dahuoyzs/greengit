@@ -847,3 +847,4 @@
 2020-01-23_04:00:02 <div id="post20" class="post20"> <font>主人在吗？爸爸在吗？</font> </div>
 2020-01-23_05:00:02 <div id="post8" class="post8"> <article>“为什么我的脸这么长肩那么宽？” “因为你是被你父母拉扯大的”</article> </div>
 2020-01-23_06:00:02 <div id="post38" class="post38"> <p>你过得好不好，没人知道； 但你胖不胖，一眼便知。</p> </div>
+2020-01-23_07:00:02 <div id="post52" class="post52"> <span>你能亲我一口吗，伸舌头的那种</span> </div>
