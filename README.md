@@ -845,3 +845,4 @@
 2020-01-23_02:00:02 <div id="post11" class="post11"> <article>赶快回来给我交作业！</article> </div>
 2020-01-23_03:00:02 <div id="post63" class="post63"> <font>自行车震不震？</font> </div>
 2020-01-23_04:00:02 <div id="post20" class="post20"> <font>主人在吗？爸爸在吗？</font> </div>
+2020-01-23_05:00:02 <div id="post8" class="post8"> <article>“为什么我的脸这么长肩那么宽？” “因为你是被你父母拉扯大的”</article> </div>
