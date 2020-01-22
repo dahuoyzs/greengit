@@ -846,3 +846,4 @@
 2020-01-23_03:00:02 <div id="post63" class="post63"> <font>自行车震不震？</font> </div>
 2020-01-23_04:00:02 <div id="post20" class="post20"> <font>主人在吗？爸爸在吗？</font> </div>
 2020-01-23_05:00:02 <div id="post8" class="post8"> <article>“为什么我的脸这么长肩那么宽？” “因为你是被你父母拉扯大的”</article> </div>
+2020-01-23_06:00:02 <div id="post38" class="post38"> <p>你过得好不好，没人知道； 但你胖不胖，一眼便知。</p> </div>
