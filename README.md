@@ -866,3 +866,4 @@
 2020-01-23_23:00:02 <div id="post16" class="post16"> <span>“憋久了不做爱会出问题吗？” “不会，憋久了 估计就弯了”</span> </div>
 2020-01-26_00:00:03 <div id="post46" class="post46"> <article>一炮而红</article> </div>
 2020-01-26_01:00:03 <div id="post5" class="post5"> <q>我想让陪我睡觉，你可以尽情的放声大叫</q> </div>
+2020-01-26_02:00:03 <div id="post68" class="post68"> <q>清晨醒来你和阳光都在便是我想要的未来</q> </div>
