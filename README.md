@@ -903,3 +903,4 @@
 2020-01-27_12:00:02 <div id="post62" class="post62"> <div>在我左腿右边，右腿的左边有一只小精灵，它活泼又聪明</div> </div>
 2020-01-27_13:00:03 <div id="post2" class="post2"> <font>和你在一起，真有意思</font> </div>
 2020-01-27_14:00:04 <div id="post65" class="post65"> <q>没什么事就不能想你？</q> </div>
+2020-01-27_15:00:04 <div id="post71" class="post71"> <q>明明可以靠脸吃饭，而我却选择了用嘴巴</q> </div>
