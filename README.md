@@ -918,3 +918,4 @@
 2020-01-28_03:00:02 <div id="post29" class="post29"> <article>A:你可以做我的奥利奥吗？ B:什么意思 A：我想泡你啊</article> </div>
 2020-01-28_04:00:02 <div id="post74" class="post74"> <font>初识憎淫恶 用后恨知晚</font> </div>
 2020-01-28_05:00:02 <div id="post53" class="post53"> <article>"我结婚你一定要来" "为什么？" "因为没有新娘会很尴尬"</article> </div>
+2020-01-28_06:00:01 <div id="post27" class="post27"> <font>你总是温温柔柔地朝我开枪</font> </div>
