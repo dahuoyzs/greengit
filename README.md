@@ -936,3 +936,4 @@
 2020-01-28_21:00:03 <div id="post51" class="post51"> <q>虽然我不是大人，但我比大人还大</q> </div>
 2020-01-28_22:00:03 <div id="post28" class="post28"> <span>迟早被自己骚死</span> </div>
 2020-01-28_23:00:04 <div id="post68" class="post68"> <q>朕不日就娶你入宫</q> </div>
+2020-01-29_00:00:03 <div id="post97" class="post97"> <font>你稍微记一下， 我找你的时候， 就是爆炸想你， 没找你的时候， 就是憋着想你。</font> </div>
