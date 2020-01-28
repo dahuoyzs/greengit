@@ -934,3 +934,4 @@
 2020-01-28_19:00:05 <div id="post78" class="post78"> <q>小时候男生喜欢玩电动玩具，女生喜欢玩娃娃，长大后就反过来了</q> </div>
 2020-01-28_20:00:03 <div id="post41" class="post41"> <span>现在就我一人在家</span> </div>
 2020-01-28_21:00:03 <div id="post51" class="post51"> <q>虽然我不是大人，但我比大人还大</q> </div>
+2020-01-28_22:00:03 <div id="post28" class="post28"> <span>迟早被自己骚死</span> </div>
