@@ -964,3 +964,4 @@
 2020-01-30_01:00:02 <div id="post60" class="post60"> <cite>对不起我不喜欢金针菇</cite> </div>
 2020-01-30_02:00:02 <div id="post99" class="post99"> <cite>给我六块钱 我想喝酸奶 我想长高高 然后保护你</cite> </div>
 2020-01-30_03:00:03 <div id="post43" class="post43"> <span>炮友可以从厨房到客厅 朋友只能从饭桌到茶桌</span> </div>
+2020-01-30_04:00:02 <div id="post17" class="post17"> <div>你和我谈了这么久的恋爱，唯一的一句真话竟然是“我要射了”</div> </div>
