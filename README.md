@@ -974,3 +974,4 @@
 2020-01-30_11:00:03 <div id="post91" class="post91"> <article>朝天一个洞，里面热烘烘，进去硬邦邦，出来软绒绒。 答案：烤地瓜</article> </div>
 2020-01-30_12:00:03 <div id="post98" class="post98"> <span>好久都没有日了，连续几天阴天，好爽</span> </div>
 2020-01-30_13:00:03 <div id="post81" class="post81"> <q>不懂心动，只是看到你好看的眉眼，就好像看过了万水千山</q> </div>
+2020-01-30_14:00:03 <div id="post71" class="post71"> <cite>知道我为什么这么黑么？ 因为我想暗中保护你</cite> </div>
