@@ -1010,3 +1010,4 @@
 2020-01-31_23:00:04 <div id="post7" class="post7"> <cite>我现在脾气好多了，否则你早就怀孕了。</cite> </div>
 2020-02-03_00:00:05 <div id="post87" class="post87"> <font>什么是陪伴？ 不让一个人，一个人</font> </div>
 2020-02-03_01:00:15 <div id="post90" class="post90"> <cite>我只是喜欢你，我没有恶意</cite> </div>
+2020-02-03_02:00:02 <div id="post61" class="post61"> <p>你是我弟弟强大的力量</p> </div>
