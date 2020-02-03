@@ -1034,3 +1034,4 @@
 2020-02-03_23:00:02 <div id="post69" class="post69"> <cite>满身大汉</cite> </div>
 2020-02-04_00:00:12 <div id="post3" class="post3"> <article>种什么花啊，我们一起种草莓</article> </div>
 2020-02-04_01:00:02 <div id="post9" class="post9"> <span>“我最近觉得胸闷” “为什么” “因为你卡在我的心里”</span> </div>
+2020-02-04_02:00:02 <div id="post68" class="post68"> <article>给你讲个故事，这故事很长，所以我长话短说，我想你了。</article> </div>
