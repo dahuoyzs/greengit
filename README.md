@@ -1039,3 +1039,4 @@
 2020-02-04_04:00:02 <div id="post12" class="post12"> <cite>I loved sleeping with you last night.</cite> </div>
 2020-02-04_05:00:02 <div id="post43" class="post43"> <div>可能你不快乐 可我想要你快乐</div> </div>
 2020-02-04_06:00:02 <div id="post82" class="post82"> <font>你这辈子的高潮我承包了</font> </div>
+2020-02-04_07:00:01 <div id="post85" class="post85"> <div>认识你之前我的世界是黑白的，认识你之后我的世界全他妈变黄了</div> </div>
