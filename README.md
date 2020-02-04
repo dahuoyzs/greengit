@@ -1060,3 +1060,4 @@
 2020-02-05_01:00:03 <div id="post66" class="post66"> <cite>你那么可爱，大风把你吹到我怀里，我是不会还的！ 可是大风根本吹不动你啊</cite> </div>
 2020-02-05_02:00:03 <div id="post55" class="post55"> <article>我发现你是个照骗，因为本人比照片好看多了</article> </div>
 2020-02-05_03:00:02 <div id="post72" class="post72"> <div>你能亲我一口吗，伸舌头的那种</div> </div>
+2020-02-05_04:00:02 <div id="post44" class="post44"> <div>我喜欢你，像你妈打你，不讲道理！</div> </div>
