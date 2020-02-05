@@ -1073,3 +1073,4 @@
 2020-02-05_14:00:03 <div id="post67" class="post67"> <div>A:你可以做我的奥利奥吗？ B:什么意思 A：我想泡你啊</div> </div>
 2020-02-05_15:00:04 <div id="post39" class="post39"> <q>你穿衣服是给别人看，不穿衣服才是给我看，以后别问我穿什么好看</q> </div>
 2020-02-05_16:00:04 <div id="post66" class="post66"> <span>我可能是盐吃多了，闲的总是想你。</span> </div>
+2020-02-05_17:00:02 <div id="post70" class="post70"> <font>今天犯点什么坏好呢？</font> </div>
