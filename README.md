@@ -1132,3 +1132,4 @@
 2020-02-08_01:00:06 <div id="post65" class="post65"> <article>这个故事有点长 来先把衣服脱了 听我慢慢跟你讲</article> </div>
 2020-02-08_02:00:04 <div id="post75" class="post75"> <cite>我着火了，我能用你消消火吗</cite> </div>
 2020-02-08_03:00:02 <div id="post81" class="post81"> <cite>背后日，叫后日</cite> </div>
+2020-02-08_04:00:04 <div id="post4" class="post4"> <article>女神？就是屌丝把你放心上，而土豪把你放床上</article> </div>
