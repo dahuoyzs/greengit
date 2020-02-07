@@ -1112,3 +1112,4 @@
 2020-02-07_05:00:01 <div id="post98" class="post98"> <article>花心处</article> </div>
 2020-02-07_06:00:02 <div id="post36" class="post36"> <cite>我其实不太敢爱你 怕爱得太用力 弄疼你</cite> </div>
 2020-02-07_07:00:01 <div id="post88" class="post88"> <cite>乖别急马上就给你</cite> </div>
+2020-02-07_08:00:01 <div id="post34" class="post34"> <p>我的床不大不小，用来睡你刚刚好</p> </div>
