@@ -1122,3 +1122,4 @@
 2020-02-07_15:00:06 <div id="post37" class="post37"> <cite>“敢问什么样的女人才是真女人。”“不充气的。”</cite> </div>
 2020-02-07_16:00:02 <div id="post77" class="post77"> <div>我想吃麻辣烫</div> </div>
 2020-02-07_17:00:02 <div id="post35" class="post35"> <cite>你能模仿下啄木鸟吗?” “怎么模仿?” “就是拿我的脸当树.”</cite> </div>
+2020-02-07_18:00:02 <div id="post39" class="post39"> <div>有很多人喜欢去远方 而我只想待在你怀里</div> </div>
