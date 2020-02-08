@@ -1136,3 +1136,4 @@
 2020-02-08_05:00:02 <div id="post53" class="post53"> <q>做坏事早晚都会被发现 所以要中午做</q> </div>
 2020-02-08_06:00:02 <div id="post66" class="post66"> <q>怎么形容一个男人特别困呢？ 日了两下竟然睡着了</q> </div>
 2020-02-08_07:00:01 <div id="post55" class="post55"> <cite>你好厉害</cite> </div>
+2020-02-08_08:00:03 <div id="post39" class="post39"> <article>我知道我脾气不好，如果你不能忍受，我希望你自己反省一下，为什么别人可以！</article> </div>
