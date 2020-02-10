@@ -1188,3 +1188,4 @@
 2020-02-10_09:00:06 <div id="post94" class="post94"> <q>你的小名一定是觉觉吧，因为……我想睡觉觉了</q> </div>
 2020-02-10_10:00:02 <div id="post47" class="post47"> <article>这辈子可能是碳酸饮料 一见到你就开心的冒泡</article> </div>
 2020-02-10_11:00:10 <div id="post3" class="post3"> <article>第一次恋爱想跟对方做爱做的事，现在只想跟他做爱。</article> </div>
+2020-02-10_12:00:02 <div id="post76" class="post76"> <q>你喜欢田野，而我愚笨，只能荒地种草十年换一时春生</q> </div>
