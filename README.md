@@ -1197,3 +1197,4 @@
 2020-02-10_18:00:03 <div id="post26" class="post26"> <font>我见过最美的画面，便是你我汗如雨下。</font> </div>
 2020-02-10_19:00:04 <div id="post16" class="post16"> <article>你和我谈了这么久的恋爱，唯一的一句真话竟然是“我要射了”</article> </div>
 2020-02-10_20:00:03 <div id="post43" class="post43"> <font>我很害羞的不要什么都让我主动</font> </div>
+2020-02-10_21:00:02 <div id="post72" class="post72"> <article>我喜欢你，像你妈打你，不讲道理！</article> </div>
