@@ -24,3 +24,4 @@
 2020-02-14_02:00:03 <div id="post95" class="post95"> <div>你知道我最不擅长什么吗？ 最不擅长离开你</div> </div>
 2020-02-14_03:00:31 <div id="post65" class="post65"> <div>原谅我好吗？不原谅我就操哭你</div> </div>
 2020-02-14_04:00:02 <div id="post7" class="post7"> <cite>目前为止，性生活是我唯一能自理的生活！</cite> </div>
+2020-02-14_05:00:02 <div id="post81" class="post81"> <div>我就是你的干燥剂，等你湿了就干你</div> </div>
