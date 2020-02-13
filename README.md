@@ -17,3 +17,4 @@
 2020-02-13_19:00:03 <div id="post14" class="post14"> <article>现在我想抱抱你</article> </div>
 2020-02-13_20:00:02 <div id="post36" class="post36"> <span>你就不能有点出息？ 出息都用来喜欢你了。</span> </div>
 2020-02-13_21:00:04 <div id="post86" class="post86"> <font>男票指着他那里说 “你看，它都不听我的话，只听你的话了。”</font> </div>
+2020-02-13_22:00:06 <div id="post50" class="post50"> <div>我之前没有爱过别人，你是第一个，我怕我做得不好，让你觉得爱情不过如此</div> </div>
