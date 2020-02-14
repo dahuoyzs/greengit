@@ -28,3 +28,4 @@
 2020-02-14_06:00:02 <div id="post69" class="post69"> <article>跪下，掌嘴！”这是清宫戏 “跪下，张嘴！”这戏就算变了</article> </div>
 2020-02-14_07:00:02 <div id="post89" class="post89"> <font>我喜欢你脸红红的样子 更喜欢你气喘吁吁的样子</font> </div>
 2020-02-14_08:00:03 <div id="post22" class="post22"> <div>卖身不卖艺</div> </div>
+2020-02-14_09:00:04 <div id="post72" class="post72"> <font>少说多做，年轻人，一定要埋头苦干。</font> </div>
