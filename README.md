@@ -31,3 +31,4 @@
 2020-02-14_09:00:04 <div id="post72" class="post72"> <font>少说多做，年轻人，一定要埋头苦干。</font> </div>
 2020-02-14_10:00:05 <div id="post70" class="post70"> <cite>你家里有避孕套么</cite> </div>
 2020-02-14_11:00:02 <div id="post53" class="post53"> <font>“小时候你爸拿什么东西打过你？”“避孕套”</font> </div>
+2020-02-14_12:00:03 <div id="post18" class="post18"> <article>不和你聊了，又不能上</article> </div>
