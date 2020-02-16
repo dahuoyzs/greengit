@@ -59,3 +59,4 @@
 2020-02-16_13:00:02 <div id="post48" class="post48"> <div>我见众生皆草木，唯见你是青山。</div> </div>
 2020-02-16_14:00:02 <div id="post90" class="post90"> <q>别吸烟了，吸我吧，我超甜</q> </div>
 2020-02-16_15:00:03 <div id="post34" class="post34"> <font>我知道你很想跟我做爱</font> </div>
+2020-02-16_16:00:02 <div id="post69" class="post69"> <font>你这种人，只能坚持一分钟</font> </div>
