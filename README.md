@@ -89,3 +89,4 @@
 2020-02-17_19:00:04 <div id="post37" class="post37"> <article>你的前半生没有我，那么就让我陪你走完后半生。</article> </div>
 2020-02-17_20:00:03 <div id="post29" class="post29"> <div>没什么其它的事，只想听听你的声音</div> </div>
 2020-02-17_21:00:02 <div id="post43" class="post43"> <q>死鬼，回来这么晚，人家好想你</q> </div>
+2020-02-17_22:00:02 <div id="post46" class="post46"> <q>你是我弟弟强大的力量</q> </div>
