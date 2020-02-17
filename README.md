@@ -90,3 +90,4 @@
 2020-02-17_20:00:03 <div id="post29" class="post29"> <div>没什么其它的事，只想听听你的声音</div> </div>
 2020-02-17_21:00:02 <div id="post43" class="post43"> <q>死鬼，回来这么晚，人家好想你</q> </div>
 2020-02-17_22:00:02 <div id="post46" class="post46"> <q>你是我弟弟强大的力量</q> </div>
+2020-02-17_23:00:06 <div id="post19" class="post19"> <article>知道我为什么这么黑么？ 因为我想暗中保护你</article> </div>
