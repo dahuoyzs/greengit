@@ -113,3 +113,4 @@
 2020-02-18_19:00:24 <div id="post68" class="post68"> <cite>宝宝,乖乖坐上来</cite> </div>
 2020-02-18_20:00:03 <div id="post65" class="post65"> <cite>对你就像喝酒，总想先干为敬</cite> </div>
 2020-02-18_21:00:02 <div id="post6" class="post6"> <article>我交朋友不在乎她可爱不可爱 反正都没你可爱</article> </div>
+2020-02-18_22:00:02 <div id="post39" class="post39"> <article>“在这个世界上我只想成为一种人。” “什么人？” “你的人。”</article> </div>
