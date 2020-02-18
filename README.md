@@ -122,3 +122,4 @@
 2020-02-19_04:00:02 <div id="post47" class="post47"> <span>她是我刚交的朋友</span> </div>
 2020-02-19_05:00:02 <div id="post8" class="post8"> <article>我的拳头和下面只为你硬，你的眼睛和下面只为我湿。</article> </div>
 2020-02-19_06:00:02 <div id="post66" class="post66"> <div>谈谈情，做做爱</div> </div>
+2020-02-19_07:00:02 <div id="post72" class="post72"> <font>对你就像喝酒，总想先干为敬</font> </div>
