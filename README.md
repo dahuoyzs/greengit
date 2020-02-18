@@ -102,3 +102,4 @@
 2020-02-18_08:00:02 <div id="post67" class="post67"> <q>Sometimes when I'm with you,I forget myself.</q> </div>
 2020-02-18_09:00:02 <div id="post67" class="post67"> <div>说爱太俗了，我们上床吧</div> </div>
 2020-02-18_10:00:03 <div id="post58" class="post58"> <span>让我住进你心里 或者你的被窝里</span> </div>
+2020-02-18_11:00:03 <div id="post93" class="post93"> <font>你们因为爱情鼓过掌吗？</font> </div>
