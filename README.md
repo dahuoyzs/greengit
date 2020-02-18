@@ -112,3 +112,4 @@
 2020-02-18_18:00:02 <div id="post56" class="post56"> <article>从你开始，没有结束</article> </div>
 2020-02-18_19:00:24 <div id="post68" class="post68"> <cite>宝宝,乖乖坐上来</cite> </div>
 2020-02-18_20:00:03 <div id="post65" class="post65"> <cite>对你就像喝酒，总想先干为敬</cite> </div>
+2020-02-18_21:00:02 <div id="post6" class="post6"> <article>我交朋友不在乎她可爱不可爱 反正都没你可爱</article> </div>
