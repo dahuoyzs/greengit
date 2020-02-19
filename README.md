@@ -146,3 +146,4 @@
 2020-02-20_04:00:04 <div id="post29" class="post29"> <p>我的世界不允许你的消失，不管结局是否完美。</p> </div>
 2020-02-20_05:00:03 <div id="post55" class="post55"> <p>做腻了可爱的女孩子，我想做你太太</p> </div>
 2020-02-20_06:00:02 <div id="post40" class="post40"> <cite>“你的胸在唱歌” “我不想，我不想长大“</cite> </div>
+2020-02-20_07:00:02 <div id="post20" class="post20"> <article>别人能一炮而红 你却不行</article> </div>
