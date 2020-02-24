@@ -185,3 +185,4 @@
 2020-02-24_19:00:02 <div id="post100" class="post100"> <q>老夫撩妹特猖狂，喝肾宝，不含糖…</q> </div>
 2020-02-24_20:00:03 <div id="post29" class="post29"> <cite>卖身不卖艺</cite> </div>
 2020-02-24_21:00:02 <div id="post23" class="post23"> <cite>“小时候你爸拿什么东西打过你？”“避孕套”</cite> </div>
+2020-02-24_22:00:06 <div id="post70" class="post70"> <article>七次不多，八次也行</article> </div>
