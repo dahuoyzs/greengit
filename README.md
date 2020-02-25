@@ -195,3 +195,4 @@
 2020-02-25_05:00:02 <div id="post72" class="post72"> <span>缘封不动：缘分被封印了，一点都没有动静。</span> </div>
 2020-02-25_06:00:02 <div id="post11" class="post11"> <p>当你一贫如洗我会是你最后的行李</p> </div>
 2020-02-25_07:00:01 <div id="post1" class="post1"> <article>抽刀断水谁更流， 跟妞讲理妞更轴</article> </div>
+2020-02-25_08:00:02 <div id="post70" class="post70"> <cite>不能想你，一想你全都是马赛克的画面。</cite> </div>
