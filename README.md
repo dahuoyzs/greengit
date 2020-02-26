@@ -223,3 +223,4 @@
 2020-02-26_09:00:02 <div id="post30" class="post30"> <span>本想鸡儿放天假，谁知越逛鸟儿越大</span> </div>
 2020-02-26_10:00:02 <div id="post69" class="post69"> <div>如果我是猫，九条命都想跟你过</div> </div>
 2020-02-26_11:00:04 <div id="post65" class="post65"> <q>我真的很花心，喜欢每一天的你和每一个的你</q> </div>
+2020-02-26_12:00:04 <div id="post96" class="post96"> <span>爱上她和爱上她是两回事</span> </div>
