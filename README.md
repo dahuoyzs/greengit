@@ -253,3 +253,4 @@
 2020-03-10_15:00:02 <div id="post53" class="post53"> <span>满身大汉</span> </div>
 2020-03-10_16:00:02 <div id="post89" class="post89"> <font>友谊的小船说翻就翻，好好的直男说弯就弯。</font> </div>
 2020-03-10_17:00:03 <div id="post24" class="post24"> <p>喘的这么厉害！你在干什么？</p> </div>
+2020-03-10_18:00:02 <div id="post44" class="post44"> <div>“我智商低，别欺负我。” “没关系，白天我陪你数太阳，晚上我陪你数月亮。”</div> </div>
