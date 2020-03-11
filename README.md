@@ -285,3 +285,4 @@
 2020-03-11_23:00:03 <div id="post51" class="post51"> <cite>什么动物胸部最大？ “斑马”因为,斑马斑马Z~bra'</cite> </div>
 2020-03-12_00:00:05 <div id="post90" class="post90"> <font>好想看你们撕逼啊</font> </div>
 2020-03-12_01:00:02 <div id="post68" class="post68"> <p>在我眼里你特别好看 从眼睫毛到头皮屑都好看的那种好看。</p> </div>
+2020-03-12_02:00:02 <div id="post71" class="post71"> <span>谁说你没有毅力的，单身你不是坚持了这么多年吗？</span> </div>
