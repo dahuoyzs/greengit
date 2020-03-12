@@ -301,3 +301,4 @@
 2020-03-12_15:00:03 <div id="post29" class="post29"> <font>“我不要葱不要蒜 你不要什么” “我不要太喜欢你”</font> </div>
 2020-03-12_16:00:02 <div id="post24" class="post24"> <span>一想到你，我的身体好像进了回南天，总是湿漉漉的</span> </div>
 2020-03-12_17:00:02 <div id="post72" class="post72"> <font>今晚记得带套，别一个月后哭爹喊娘的</font> </div>
+2020-03-12_18:00:03 <div id="post71" class="post71"> <div>不想吃糖想吃你，不想揉风想揉你。</div> </div>
