@@ -303,3 +303,4 @@
 2020-03-12_17:00:02 <div id="post72" class="post72"> <font>今晚记得带套，别一个月后哭爹喊娘的</font> </div>
 2020-03-12_18:00:03 <div id="post71" class="post71"> <div>不想吃糖想吃你，不想揉风想揉你。</div> </div>
 2020-03-12_19:00:02 <div id="post31" class="post31"> <article>精力是有限的,做爱做的事热情是无限的</article> </div>
+2020-03-12_20:00:03 <div id="post4" class="post4"> <span>我可以给你我的所有，当然包括灵魂和肉体</span> </div>
