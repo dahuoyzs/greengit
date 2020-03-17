@@ -316,3 +316,4 @@
 2020-03-17_06:00:02 <div id="post25" class="post25"> <article>我要听你娇喘</article> </div>
 2020-03-17_07:00:02 <div id="post7" class="post7"> <p>为什么要找男朋友啊？是黄瓜不够大还是茄子涨价了？ 天冷了，想吃口热乎的。</p> </div>
 2020-03-17_08:00:01 <div id="post65" class="post65"> <font>分分合合才是爱 一炮就散那叫合作愉快</font> </div>
+2020-03-17_09:00:02 <div id="post65" class="post65"> <article>在和女朋友确定恋爱关系之前，带她去吃一次海鲜，如果这个女生很怕腥味，没关系，以后告诉她你的是柠檬味的</article> </div>
