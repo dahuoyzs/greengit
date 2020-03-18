@@ -338,3 +338,4 @@
 2020-03-19_04:00:03 <div id="post99" class="post99"> <article>我想艹你，在一望无际的田野里。 我想艹你，在列车轰鸣的铁轨旁。 我想艹你，在人潮汹涌的大街上。</article> </div>
 2020-03-19_05:00:05 <div id="post20" class="post20"> <span>你个磨人的小妖精</span> </div>
 2020-03-19_06:00:01 <div id="post95" class="post95"> <cite>要是怕冷，离我近点，我比较暖</cite> </div>
+2020-03-19_07:00:02 <div id="post86" class="post86"> <font>来日方长</font> </div>
