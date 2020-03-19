@@ -354,3 +354,4 @@
 2020-03-19_20:00:01 <div id="post6" class="post6"> <q>我打算爱你很久很久，没有想要放弃的念头</q> </div>
 2020-03-19_21:00:02 <div id="post33" class="post33"> <q>朝天一个洞，里面热烘烘，进去硬邦邦，出来软绒绒。 答案：烤地瓜</q> </div>
 2020-03-19_22:00:03 <div id="post50" class="post50"> <article>没什么特别的事 只想听听你的声音</article> </div>
+2020-03-19_23:00:02 <div id="post47" class="post47"> <cite>除了做爱，其它什么都做不好</cite> </div>
