@@ -350,3 +350,4 @@
 2020-03-19_16:00:02 <div id="post35" class="post35"> <q>油嘴滑舌并非我本意 逗你开心才是我目的</q> </div>
 2020-03-19_17:00:03 <div id="post30" class="post30"> <span>放开我，不要乱来啦</span> </div>
 2020-03-19_18:00:02 <div id="post17" class="post17"> <article>肥=月巴（约吧）</article> </div>
+2020-03-19_19:00:02 <div id="post27" class="post27"> <p>生活中能拉你一把的是朋友，能拉你几把的是老婆！</p> </div>
