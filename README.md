@@ -342,3 +342,4 @@
 2020-03-19_08:00:02 <div id="post31" class="post31"> <cite>“为表达我的歉意，送你根香蕉”“不用了”“没让你用，我让你吃”</cite> </div>
 2020-03-19_09:00:02 <div id="post9" class="post9"> <div>要抱抱 要摸头 要托腮 要你的全部喜欢</div> </div>
 2020-03-19_10:00:03 <div id="post83" class="post83"> <article>好久不见，肾是想念</article> </div>
+2020-03-19_11:00:03 <div id="post99" class="post99"> <cite>有些东西，抓在手里了 就不要轻言放弃，要使劲捏</cite> </div>
