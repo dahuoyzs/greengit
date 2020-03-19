@@ -340,3 +340,4 @@
 2020-03-19_06:00:01 <div id="post95" class="post95"> <cite>要是怕冷，离我近点，我比较暖</cite> </div>
 2020-03-19_07:00:02 <div id="post86" class="post86"> <font>来日方长</font> </div>
 2020-03-19_08:00:02 <div id="post31" class="post31"> <cite>“为表达我的歉意，送你根香蕉”“不用了”“没让你用，我让你吃”</cite> </div>
+2020-03-19_09:00:02 <div id="post9" class="post9"> <div>要抱抱 要摸头 要托腮 要你的全部喜欢</div> </div>
