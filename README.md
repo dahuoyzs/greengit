@@ -385,3 +385,4 @@
 2020-03-23_03:00:01 <div id="post17" class="post17"> <span>I loved sleeping with you last night.</span> </div>
 2020-03-23_04:00:02 <div id="post32" class="post32"> <font>什么时候才能睡觉一翻身就能蹭到你怀里呀</font> </div>
 2020-03-23_05:00:02 <div id="post72" class="post72"> <q>昨晚在我床上你可不是这么说的</q> </div>
+2020-03-23_06:00:01 <div id="post68" class="post68"> <article>有个人丁丁很短于是…他去学了拉丁舞</article> </div>
