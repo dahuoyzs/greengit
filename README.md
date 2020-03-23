@@ -394,3 +394,4 @@
 2020-03-23_12:00:03 <div id="post97" class="post97"> <article>纵使纸短情长，仍吻你万千</article> </div>
 2020-03-23_13:00:02 <div id="post15" class="post15"> <div>对你的爱是无期徒刑</div> </div>
 2020-03-23_14:00:03 <div id="post74" class="post74"> <q>我和我的身体都很想你</q> </div>
+2020-03-23_15:00:02 <div id="post88" class="post88"> <cite>我可以给你我的所有，当然包括灵魂和肉体</cite> </div>
