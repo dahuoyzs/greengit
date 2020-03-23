@@ -403,3 +403,4 @@
 2020-03-23_21:00:04 <div id="post71" class="post71"> <font>“我看人很准的” “那你看我是什么人？” “你是我的人”</font> </div>
 2020-03-23_22:00:02 <div id="post11" class="post11"> <div>自古套路留不住 唯有深情撩人心</div> </div>
 2020-03-23_23:00:08 <div id="post94" class="post94"> <cite>人生只有两次幸运就好，一次遇到你，一次睡到底。</cite> </div>
+2020-03-24_00:00:03 <div id="post67" class="post67"> <article>你是个有担当的人，在你的责任里加我一个吧</article> </div>
