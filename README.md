@@ -421,3 +421,4 @@
 2020-03-24_15:00:02 <div id="post84" class="post84"> <article>想尝尝你的海水是甜是咸 想在你的黑洞发泄我的积蓄</article> </div>
 2020-03-24_16:00:02 <div id="post40" class="post40"> <q>啪啪啪的时候笑场，接下来爱还做吗？</q> </div>
 2020-03-24_17:00:02 <div id="post16" class="post16"> <article>人生就像卫生纸，没事尽量少扯</article> </div>
+2020-03-24_18:00:02 <div id="post98" class="post98"> <font>作为物理学家 我只想跟你摩擦</font> </div>
