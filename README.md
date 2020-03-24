@@ -433,3 +433,4 @@
 2020-03-25_03:00:01 <div id="post65" class="post65"> <div>好好珍惜那个爱吃醋的女孩 如果她不爱你 她原本是最爱吃肉的</div> </div>
 2020-03-25_04:00:02 <div id="post36" class="post36"> <p>不渴，自拔</p> </div>
 2020-03-25_05:00:02 <div id="post60" class="post60"> <p>做人缺爱，做爱缺人</p> </div>
+2020-03-25_06:00:02 <div id="post71" class="post71"> <article>如果夜里不吃东西那么冰箱里为什么会有灯</article> </div>
