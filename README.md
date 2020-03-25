@@ -435,3 +435,4 @@
 2020-03-25_05:00:02 <div id="post60" class="post60"> <p>做人缺爱，做爱缺人</p> </div>
 2020-03-25_06:00:02 <div id="post71" class="post71"> <article>如果夜里不吃东西那么冰箱里为什么会有灯</article> </div>
 2020-03-25_07:00:02 <div id="post92" class="post92"> <article>最浪漫的事，就是你汗如雨下</article> </div>
+2020-03-25_08:00:04 <div id="post70" class="post70"> <font>你家里有避孕套么</font> </div>
