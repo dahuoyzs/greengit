@@ -468,3 +468,4 @@
 2020-03-26_14:00:03 <div id="post57" class="post57"> <font>我知道你很难伺候 可我就是喜欢伺候你</font> </div>
 2020-03-26_15:00:02 <div id="post45" class="post45"> <p>你瘦的时候在我心里 胖了就在里面卡着出不来了</p> </div>
 2020-03-26_16:00:03 <div id="post90" class="post90"> <div>我今天如果可以的话想和你睡觉</div> </div>
+2020-03-26_17:00:03 <div id="post34" class="post34"> <cite>我现在是你爸爸 你讲话注意点</cite> </div>
