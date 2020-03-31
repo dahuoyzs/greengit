@@ -527,3 +527,4 @@
 2020-03-31_05:00:02 <div id="post87" class="post87"> <article>感觉像约炮 其实我们是在谈恋爱</article> </div>
 2020-03-31_06:00:02 <div id="post37" class="post37"> <font>在床上强迫你做你不想做的，你是不是感觉很爽</font> </div>
 2020-03-31_07:00:02 <div id="post84" class="post84"> <article>我见过最美的画面，便是你我汗如雨下。</article> </div>
+2020-03-31_08:00:02 <div id="post18" class="post18"> <q>虽然我想和你睡在一起是确实是想摸摸你占你便宜 但是我更想在你做噩梦的时候我能在你身边紧紧的抱着你</q> </div>
