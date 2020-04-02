@@ -556,3 +556,4 @@
 2020-04-02_10:00:02 <div id="post77" class="post77"> <cite>最爱你在床上被我脱得光溜溜的，害羞得死命抱着我的样子。</cite> </div>
 2020-04-02_11:00:02 <div id="post22" class="post22"> <cite>我能想到最浪漫的事，就是和你用遍所有的姿势。</cite> </div>
 2020-04-02_12:00:02 <div id="post46" class="post46"> <div>别吸烟了，吸我吧，我超甜</div> </div>
+2020-04-02_13:00:02 <div id="post70" class="post70"> <q>来，我们床上聊</q> </div>
