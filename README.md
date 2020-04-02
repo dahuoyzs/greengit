@@ -557,3 +557,4 @@
 2020-04-02_11:00:02 <div id="post22" class="post22"> <cite>我能想到最浪漫的事，就是和你用遍所有的姿势。</cite> </div>
 2020-04-02_12:00:02 <div id="post46" class="post46"> <div>别吸烟了，吸我吧，我超甜</div> </div>
 2020-04-02_13:00:02 <div id="post70" class="post70"> <q>来，我们床上聊</q> </div>
+2020-04-02_14:00:03 <div id="post76" class="post76"> <article>你知道为什么男生喜欢爱哭的女生吗？因为水多呀</article> </div>
