@@ -552,3 +552,4 @@
 2020-04-02_06:00:01 <div id="post98" class="post98"> <font>你理我的时候，我就感觉你跟别人刚做完</font> </div>
 2020-04-02_07:00:01 <div id="post30" class="post30"> <font>你说你喜欢海，其实你更喜欢浪 你说你喜欢秋千，其实你更喜欢荡</font> </div>
 2020-04-02_08:00:02 <div id="post100" class="post100"> <span>这位巫师，来我床上做法事可好？</span> </div>
+2020-04-02_09:00:02 <div id="post65" class="post65"> <cite>你主动我们就会有故事，而且是18禁的那种</cite> </div>
