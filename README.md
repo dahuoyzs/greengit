@@ -567,3 +567,4 @@
 2020-04-02_21:00:02 <div id="post9" class="post9"> <span>拔屌无情。 --莫言《檀香刑》</span> </div>
 2020-04-02_22:00:02 <div id="post16" class="post16"> <font>主人在吗？爸爸在吗？</font> </div>
 2020-04-02_23:00:04 <div id="post75" class="post75"> <article>你负责貌美如花，我负责插花</article> </div>
+2020-04-07_00:00:05 <div id="post67" class="post67"> <article>“你知道我最喜欢喝什么吗？” “什么？” “呵护你。”</article> </div>
