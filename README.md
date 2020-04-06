@@ -573,3 +573,4 @@
 2020-04-07_03:00:02 <div id="post72" class="post72"> <cite>目前为止，性生活是我唯一能自理的生活！</cite> </div>
 2020-04-07_04:00:01 <div id="post31" class="post31"> <div>我有一个祖传的卵子等你来拿</div> </div>
 2020-04-07_05:00:03 <div id="post2" class="post2"> <cite>朕不日就娶你入宫</cite> </div>
+2020-04-07_06:00:02 <div id="post50" class="post50"> <font>我不想做你人生的插曲，我想成为你一生的主题曲。</font> </div>
