@@ -568,3 +568,4 @@
 2020-04-02_22:00:02 <div id="post16" class="post16"> <font>主人在吗？爸爸在吗？</font> </div>
 2020-04-02_23:00:04 <div id="post75" class="post75"> <article>你负责貌美如花，我负责插花</article> </div>
 2020-04-07_00:00:05 <div id="post67" class="post67"> <article>“你知道我最喜欢喝什么吗？” “什么？” “呵护你。”</article> </div>
+2020-04-07_01:00:02 <div id="post72" class="post72"> <font>身体是用来ML的，思想是用来骗人ML的</font> </div>
