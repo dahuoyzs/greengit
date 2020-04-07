@@ -589,3 +589,4 @@
 2020-04-07_19:00:03 <div id="post46" class="post46"> <font>“跟你玩捉迷藏好不好”“好啊”“我一定怎么都不会输”“为什么？”“因为我喜欢一个人藏都藏不住”</font> </div>
 2020-04-07_20:00:01 <div id="post55" class="post55"> <cite>要摸你就好好摸，不摸死远点！</cite> </div>
 2020-04-07_21:00:02 <div id="post93" class="post93"> <p>恨可以含蓄，爱要坦白。</p> </div>
+2020-04-07_22:00:02 <div id="post4" class="post4"> <span>好好说话，别脱衣服</span> </div>
