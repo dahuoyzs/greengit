@@ -575,3 +575,4 @@
 2020-04-07_05:00:03 <div id="post2" class="post2"> <cite>朕不日就娶你入宫</cite> </div>
 2020-04-07_06:00:02 <div id="post50" class="post50"> <font>我不想做你人生的插曲，我想成为你一生的主题曲。</font> </div>
 2020-04-07_07:00:02 <div id="post36" class="post36"> <font>“我什么人都不怕，可是我觉得你蛮可怕的”“为什么啊？”“因为我怕老婆”</font> </div>
+2020-04-07_08:00:03 <div id="post21" class="post21"> <p>情话是我抄的，但只说给你听是真的。</p> </div>
