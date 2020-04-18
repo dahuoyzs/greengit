@@ -9,3 +9,4 @@
 2020-04-19_01:00:03 <div id="post13" class="post13"> <cite>我们今晚是tan还是cot。。。</cite> </div>
 2020-04-19_02:00:02 <div id="post13" class="post13"> <article>就觉得你长的好像我下一任女朋友</article> </div>
 2020-04-19_03:00:02 <div id="post24" class="post24"> <q>做坏事早晚都会被发现 所以要中午做</q> </div>
+2020-04-19_04:00:02 <div id="post48" class="post48"> <article>表白不一定是好事，因为会显得手黑</article> </div>
