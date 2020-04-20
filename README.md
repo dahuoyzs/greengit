@@ -38,3 +38,4 @@
 2020-04-20_06:00:01 <div id="post26" class="post26"> <cite>做到一半，突然羞答答的要求换姿势，那是因为快了，换个姿势缓冲一下</cite> </div>
 2020-04-20_07:00:02 <div id="post56" class="post56"> <span>尔等凡夫俗子，当真不想尝尝仙女的滋味吗？</span> </div>
 2020-04-20_08:00:02 <div id="post21" class="post21"> <p>姻缘有份，愿你嫁我</p> </div>
+2020-04-20_09:00:02 <div id="post70" class="post70"> <font>来日方长，细水长流</font> </div>
