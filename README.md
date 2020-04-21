@@ -62,3 +62,4 @@
 2020-04-21_06:00:02 <div id="post21" class="post21"> <cite>你是一 我是一 除不尽的都是你</cite> </div>
 2020-04-21_07:00:02 <div id="post89" class="post89"> <article>你妈妈和女朋友掉水里，你会先救谁？ 先救妈妈！因为在水里要和女朋友来一发</article> </div>
 2020-04-21_08:00:01 <div id="post51" class="post51"> <span>站住，交出你的作案工具！</span> </div>
+2020-04-21_09:00:04 <div id="post56" class="post56"> <font>谁说你没有毅力的，单身你不是坚持了这么多年吗？</font> </div>
