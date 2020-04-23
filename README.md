@@ -112,3 +112,4 @@
 2020-04-23_08:00:02 <div id="post11" class="post11"> <font>Precious things are very few in this world. That is the reason there is just one you. 在这世上珍贵的东西总是罕有，所以这世上只有一个你。</font> </div>
 2020-04-23_09:00:02 <div id="post24" class="post24"> <article>我们回家吧</article> </div>
 2020-04-23_10:00:03 <div id="post69" class="post69"> <div>我这么喜欢你，你喜欢我一下会死啊</div> </div>
+2020-04-23_11:00:02 <div id="post31" class="post31"> <font>和她在一起感觉自己就是一个振动棒</font> </div>
