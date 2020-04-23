@@ -113,3 +113,4 @@
 2020-04-23_09:00:02 <div id="post24" class="post24"> <article>我们回家吧</article> </div>
 2020-04-23_10:00:03 <div id="post69" class="post69"> <div>我这么喜欢你，你喜欢我一下会死啊</div> </div>
 2020-04-23_11:00:02 <div id="post31" class="post31"> <font>和她在一起感觉自己就是一个振动棒</font> </div>
+2020-04-23_12:00:03 <div id="post13" class="post13"> <font>“猜猜我的心脏在哪边？” “左边啊” “错了，在你那边”</font> </div>
