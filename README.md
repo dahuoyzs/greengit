@@ -110,3 +110,4 @@
 2020-04-23_06:00:01 <div id="post54" class="post54"> <q>她只要说，早点睡吧，我就一声冷汗</q> </div>
 2020-04-23_07:00:02 <div id="post6" class="post6"> <span>love is hard , but the reason i still persist is you.</span> </div>
 2020-04-23_08:00:02 <div id="post11" class="post11"> <font>Precious things are very few in this world. That is the reason there is just one you. 在这世上珍贵的东西总是罕有，所以这世上只有一个你。</font> </div>
+2020-04-23_09:00:02 <div id="post24" class="post24"> <article>我们回家吧</article> </div>
