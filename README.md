@@ -117,3 +117,4 @@
 2020-04-23_13:00:02 <div id="post61" class="post61"> <span>他们只能把你哄睡，而我能把你操醒</span> </div>
 2020-04-23_14:00:05 <div id="post100" class="post100"> <article>你要来我家看猫吗？</article> </div>
 2020-04-23_15:00:13 <div id="post22" class="post22"> <p>天生一个仙人洞，无限风光在险峰</p> </div>
+2020-04-23_16:00:02 <div id="post67" class="post67"> <q>好久都没有日了，连续几天阴天，好爽</q> </div>
