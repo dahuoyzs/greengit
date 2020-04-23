@@ -131,3 +131,4 @@
 2020-04-24_03:00:05 <div id="post79" class="post79"> <article>想做你的枕边书 怀中猫 还有意中人</article> </div>
 2020-04-24_04:00:03 <div id="post1" class="post1"> <font>你搞艺术，我搞你，这叫深入艺术。</font> </div>
 2020-04-24_05:00:02 <div id="post39" class="post39"> <article>“我要偷你的体温” “说人话” “要艹艹</article> </div>
+2020-04-24_06:00:02 <div id="post4" class="post4"> <article>我喜欢你的温暖与湿润 你见证了我的坚硬到柔软</article> </div>
