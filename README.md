@@ -141,3 +141,4 @@
 2020-04-24_13:00:04 <div id="post70" class="post70"> <cite>“我的笔没水了” “揉揉就有了” </cite> </div>
 2020-04-24_14:00:04 <div id="post44" class="post44"> <p>姑娘，一起取精么？</p> </div>
 2020-04-24_15:00:02 <div id="post13" class="post13"> <p>“你这么完美，就是有一个缺点。” “什么缺点？” “缺点我”</p> </div>
+2020-04-24_16:00:03 <div id="post99" class="post99"> <font>做我的女朋友一定要喜欢吃海鲜</font> </div>
