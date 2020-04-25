@@ -175,3 +175,4 @@
 2020-04-25_23:00:02 <div id="post92" class="post92"> <p>洗白白到床上等你</p> </div>
 2020-04-26_00:00:03 <div id="post18" class="post18"> <p>给你讲个故事，这故事很长，所以我长话短说，我想你了。</p> </div>
 2020-04-26_01:00:02 <div id="post31" class="post31"> <cite>世上无难事，那就只剩下女士了</cite> </div>
+2020-04-26_02:00:02 <div id="post95" class="post95"> <cite>好看的皮囊三千难买，有趣的灵魂老少皆宜</cite> </div>
