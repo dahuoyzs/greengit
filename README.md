@@ -172,3 +172,4 @@
 2020-04-25_20:00:02 <div id="post78" class="post78"> <article>我只是喜欢你，我没有恶意</article> </div>
 2020-04-25_21:00:03 <div id="post94" class="post94"> <article>来吧我们喝着酒 误入彼此的禁区</article> </div>
 2020-04-25_22:00:12 <div id="post42" class="post42"> <p>距离不是问题，负距离才是重点</p> </div>
+2020-04-25_23:00:02 <div id="post92" class="post92"> <p>洗白白到床上等你</p> </div>
