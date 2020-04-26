@@ -196,3 +196,4 @@
 2020-04-26_20:00:09 <div id="post76" class="post76"> <font>落红不是无情物，医院三百能修复。</font> </div>
 2020-04-26_21:00:01 <div id="post58" class="post58"> <span>你想与我来日方长，我想与你知根知底</span> </div>
 2020-04-26_22:00:03 <div id="post68" class="post68"> <article>洗白白到床上等你</article> </div>
+2020-04-26_23:00:03 <div id="post56" class="post56"> <div>A:你可以做我的奥利奥吗？ B:什么意思 A：我想泡你啊</div> </div>
