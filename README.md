@@ -195,3 +195,4 @@
 2020-04-26_19:00:05 <div id="post78" class="post78"> <q>我爱你 没有技巧 真诚野蛮</q> </div>
 2020-04-26_20:00:09 <div id="post76" class="post76"> <font>落红不是无情物，医院三百能修复。</font> </div>
 2020-04-26_21:00:01 <div id="post58" class="post58"> <span>你想与我来日方长，我想与你知根知底</span> </div>
+2020-04-26_22:00:03 <div id="post68" class="post68"> <article>洗白白到床上等你</article> </div>
