@@ -193,3 +193,4 @@
 2020-04-26_17:00:02 <div id="post74" class="post74"> <p>愿意让我用我的长短测出你的深浅吗</p> </div>
 2020-04-26_18:00:02 <div id="post3" class="post3"> <font></font> </div>
 2020-04-26_19:00:05 <div id="post78" class="post78"> <q>我爱你 没有技巧 真诚野蛮</q> </div>
+2020-04-26_20:00:09 <div id="post76" class="post76"> <font>落红不是无情物，医院三百能修复。</font> </div>
