@@ -202,3 +202,4 @@
 2020-05-02_02:00:02 <div id="post67" class="post67"> <font>改日不如撞日遇到就要可劲日</font> </div>
 2020-05-02_03:00:01 <div id="post52" class="post52"> <div>撩你都是我的虚情假意，污你才是我的目的</div> </div>
 2020-05-02_04:00:04 <div id="post39" class="post39"> <q>今晚我会让你哭着喊着说不要</q> </div>
+2020-05-02_05:00:02 <div id="post72" class="post72"> <font>算了这辈子就让你蹂躏吧</font> </div>
