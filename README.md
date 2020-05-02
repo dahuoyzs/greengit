@@ -215,3 +215,4 @@
 2020-05-02_15:00:03 <div id="post4" class="post4"> <article>你还是走吧 就当没有我这个小炮友</article> </div>
 2020-05-02_16:00:03 <div id="post4" class="post4"> <q>就算80岁了我也要继续跟你爱，哪怕你满头白发皮肤褶皱连粗喘都带着停歇</q> </div>
 2020-05-02_17:00:03 <div id="post49" class="post49"> <span>等我找到你我一定把我这么多年攒的炮都给你补上</span> </div>
+2020-05-02_18:00:04 <div id="post7" class="post7"> <cite>幸幸苦苦开个房，你以为我要和你抄党章</cite> </div>
