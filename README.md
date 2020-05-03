@@ -252,3 +252,4 @@
 2020-05-04_04:00:03 <div id="post37" class="post37"> <span>洗洗睡吧，你想要的春梦里都有</span> </div>
 2020-05-04_05:00:02 <div id="post19" class="post19"> <article>别嫌弃你女朋友爱追星 要知道她能看上你就已经是你的造化了</article> </div>
 2020-05-04_06:00:03 <div id="post41" class="post41"> <div>“你有闻到什么味道吗” “没有啊” “你出来以后空气变甜了”</div> </div>
+2020-05-04_07:00:02 <div id="post28" class="post28"> <font>祝你做人不缺爱，做爱不缺人</font> </div>
