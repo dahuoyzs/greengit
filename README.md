@@ -236,3 +236,4 @@
 2020-05-03_12:00:02 <div id="post64" class="post64"> <cite>青春荒唐不负你，全套包夜八百起</cite> </div>
 2020-05-03_13:00:02 <div id="post99" class="post99"> <q>你想睡我这件事我已经知道了</q> </div>
 2020-05-03_14:00:08 <div id="post97" class="post97"> <p>买一把双人伞 做俩个人的饭 搭配一个吻</p> </div>
+2020-05-03_15:00:04 <div id="post34" class="post34"> <article>做我的女朋友一定要喜欢吃海鲜</article> </div>
