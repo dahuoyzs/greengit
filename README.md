@@ -245,3 +245,4 @@
 2020-05-03_21:00:02 <div id="post21" class="post21"> <div>要么把我宠坏 要么把我艹乖</div> </div>
 2020-05-03_22:00:01 <div id="post16" class="post16"> <div>我莫名奇妙的笑了，只正因想到了你</div> </div>
 2020-05-03_23:00:04 <div id="post71" class="post71"> <article>爱是一个长久的诺言，平淡的故事要用一生讲完。</article> </div>
+2020-05-04_00:00:04 <div id="post90" class="post90"> <font>日我好吗？我请你日我</font> </div>
