@@ -262,3 +262,4 @@
 2020-05-04_14:00:05 <div id="post26" class="post26"> <span>你可以坐我吗？</span> </div>
 2020-05-04_15:00:18 <div id="post92" class="post92"> <div>“为什么每次吵架你都硬着头皮来找我？”“不然你要我硬着什么来找你？”</div> </div>
 2020-05-04_16:00:02 <div id="post38" class="post38"> <cite>怕什么真理无穷，进一寸有一寸的欢喜</cite> </div>
+2020-05-04_17:00:02 <div id="post87" class="post87"> <span>有一鱼，其名鲲，鲲者，鱼日比也，鲲者，鱼口口比。</span> </div>
