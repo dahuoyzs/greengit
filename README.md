@@ -272,3 +272,4 @@
 2020-05-06_00:00:21 <div id="post7" class="post7"> <font>先生我好饿，可不可以把你吃掉</font> </div>
 2020-05-06_01:00:07 <div id="post15" class="post15"> <article>不要在该放荡的年龄端庄的活着</article> </div>
 2020-05-06_02:00:02 <div id="post54" class="post54"> <q>不管你以后遇到多少人 她们都是酒店而我是家</q> </div>
+2020-05-06_03:00:02 <div id="post7" class="post7"> <div>自取其ru</div> </div>
