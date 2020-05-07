@@ -297,3 +297,4 @@
 2020-05-08_01:00:02 <div id="post93" class="post93"> <div>对着腿间湿漉的星光 许下一个愿望</div> </div>
 2020-05-08_02:00:10 <div id="post83" class="post83"> <article>爱你这事儿不想拖到下一秒</article> </div>
 2020-05-08_03:00:02 <div id="post29" class="post29"> <div>要不是怕吓到你我心疼，早就跟你急了。</div> </div>
+2020-05-08_04:00:02 <div id="post10" class="post10"> <font>我唯一的野心就是干你到底</font> </div>
