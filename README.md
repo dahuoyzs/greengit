@@ -313,3 +313,4 @@
 2020-05-08_17:00:03 <div id="post8" class="post8"> <p>就你好看，屁眼都是双眼皮的</p> </div>
 2020-05-08_18:00:02 <div id="post27" class="post27"> <cite>U drive me crazy</cite> </div>
 2020-05-08_19:00:02 <div id="post3" class="post3"> <q>If I could rearrange the alphabet, I'd put Y and I together. 如果我能重新来排列字母，我要把Y(你)跟I(我)排在一起</q> </div>
+2020-05-08_20:00:02 <div id="post1" class="post1"> <q>早点睡吧，你喜欢的人可能已经跟别人睡着了</q> </div>
