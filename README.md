@@ -314,3 +314,4 @@
 2020-05-08_18:00:02 <div id="post27" class="post27"> <cite>U drive me crazy</cite> </div>
 2020-05-08_19:00:02 <div id="post3" class="post3"> <q>If I could rearrange the alphabet, I'd put Y and I together. 如果我能重新来排列字母，我要把Y(你)跟I(我)排在一起</q> </div>
 2020-05-08_20:00:02 <div id="post1" class="post1"> <q>早点睡吧，你喜欢的人可能已经跟别人睡着了</q> </div>
+2020-05-08_21:00:07 <div id="post70" class="post70"> <span>她说一晚上被干醒好几次 看来我得买个加湿器了</span> </div>
