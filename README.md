@@ -342,3 +342,4 @@
 2020-05-09_22:00:02 <div id="post36" class="post36"> <p>想做你的枕边书 怀中猫 还有意中人</p> </div>
 2020-05-09_23:00:09 <div id="post96" class="post96"> <font>别人能一炮而红 你却不行</font> </div>
 2020-05-10_00:00:04 <div id="post71" class="post71"> <article>世界上最温暖的两个字是从你口中说出的晚安。</article> </div>
+2020-05-10_02:00:04 <div id="post87" class="post87"> <cite>小刘自从交到女朋友后就把自己网名改成了蓝色（blue）</cite> </div>
