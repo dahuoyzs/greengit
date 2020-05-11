@@ -389,3 +389,4 @@
 2020-05-11_22:00:03 <div id="post85" class="post85"> <font>以前喜欢热闹， 现在喜欢安静， 以后就喜欢你。</font> </div>
 2020-05-11_23:00:03 <div id="post71" class="post71"> <div>我喜欢你调皮的样子 希望在床上也是这样</div> </div>
 2020-05-12_00:00:03 <div id="post80" class="post80"> <cite>我一点都不强大，我只想躲在小哥哥的胯下吃棒棒</cite> </div>
+2020-05-12_01:00:09 <div id="post77" class="post77"> <span>相遇总有原因，不是恩赐，就是教训</span> </div>
