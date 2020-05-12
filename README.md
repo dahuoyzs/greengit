@@ -409,3 +409,4 @@
 2020-05-12_19:00:02 <div id="post98" class="post98"> <span>好久不见，肾是想念</span> </div>
 2020-05-12_20:00:02 <div id="post80" class="post80"> <article>大学生活好吗？一次性交多少钱？</article> </div>
 2020-05-12_21:00:03 <div id="post94" class="post94"> <cite>不和你聊了，又不能上</cite> </div>
+2020-05-12_22:00:03 <div id="post26" class="post26"> <q>有了你 我就再也不会喜欢别的猪了。</q> </div>
