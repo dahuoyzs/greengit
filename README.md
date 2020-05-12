@@ -415,3 +415,4 @@
 2020-05-13_01:00:02 <div id="post13" class="post13"> <q>以前化成灰的人都能认得出，现在化个妆就认不出了。</q> </div>
 2020-05-13_02:00:03 <div id="post3" class="post3"> <font>下雨天和干你更配</font> </div>
 2020-05-13_03:00:01 <div id="post47" class="post47"> <div>见到你的第一面我就想上你，他们斯文人把这叫一见钟情</div> </div>
+2020-05-13_04:00:02 <div id="post6" class="post6"> <span>我们都是务实的人，爱这种东西还是少说多做</span> </div>
