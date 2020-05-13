@@ -427,3 +427,4 @@
 2020-05-13_13:00:02 <div id="post56" class="post56"> <article>我交朋友不在乎她可爱不可爱 反正都没你可爱</article> </div>
 2020-05-13_14:00:02 <div id="post8" class="post8"> <p>只有和你在一起的时候，才不会去羡慕别人。</p> </div>
 2020-05-13_15:00:04 <div id="post25" class="post25"> <q>想死在你手上 活在你床上</q> </div>
+2020-05-13_16:00:03 <div id="post48" class="post48"> <p>我不喜欢等，我只喜欢你</p> </div>
