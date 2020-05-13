@@ -441,3 +441,4 @@
 2020-05-14_03:00:03 <div id="post24" class="post24"> <font>好好说话，别脱衣服</font> </div>
 2020-05-14_04:00:03 <div id="post88" class="post88"> <font>你上嗨了我，却一笑而过</font> </div>
 2020-05-14_05:00:02 <div id="post74" class="post74"> <font>愣着干嘛 快来撩我啊</font> </div>
+2020-05-14_06:00:03 <div id="post98" class="post98"> <div>我着火了，我能用你消消火吗</div> </div>
