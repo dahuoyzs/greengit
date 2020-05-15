@@ -470,3 +470,4 @@
 2020-05-15_08:00:02 <div id="post79" class="post79"> <cite>今天的云好看 太阳也好看 当然你最好看</cite> </div>
 2020-05-15_09:00:02 <div id="post69" class="post69"> <cite>站住，交出你的作案工具！</cite> </div>
 2020-05-15_10:00:05 <div id="post84" class="post84"> <cite>我这个人没什么优点 就是善解人衣</cite> </div>
+2020-05-15_11:00:04 <div id="post93" class="post93"> <span>故事和酒 我床上全有 今晚可以给你盖被子吗？</span> </div>
