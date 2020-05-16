@@ -514,3 +514,4 @@
 2020-05-17_04:00:02 <div id="post3" class="post3"> <font>有些孩子 老幻想自己是公主 我就不一样 我是王子</font> </div>
 2020-05-17_05:00:02 <div id="post28" class="post28"> <article>你想一夜暴富吗？你想身价过亿吗？你想衣食无忧吗？你想生活不愁吗？如果你想，不如跟我在一起，我们两个一起想。</article> </div>
 2020-05-17_06:00:03 <div id="post2" class="post2"> <cite>你吃过人肉吗？</cite> </div>
+2020-05-17_07:00:01 <div id="post37" class="post37"> <div>要是能硬扛30分钟，也比10秒缴械要好</div> </div>
