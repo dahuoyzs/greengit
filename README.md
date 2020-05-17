@@ -537,3 +537,4 @@
 2020-05-18_03:00:02 <div id="post1" class="post1"> <div>让我住进你心里 或者你的被窝里</div> </div>
 2020-05-18_04:00:02 <div id="post26" class="post26"> <font>快进来啊，人家等不及了</font> </div>
 2020-05-18_05:00:02 <div id="post33" class="post33"> <article>你别想跑，就在这里陪我吧！</article> </div>
+2020-05-18_06:00:02 <div id="post65" class="post65"> <font>我可以抱（爆）你吗宝贝</font> </div>
