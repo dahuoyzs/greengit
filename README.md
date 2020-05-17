@@ -526,3 +526,4 @@
 2020-05-17_16:00:02 <div id="post11" class="post11"> <div>“你猜我什么血型？” “你是我的理想型”</div> </div>
 2020-05-17_17:00:02 <div id="post65" class="post65"> <article>我养你啊</article> </div>
 2020-05-17_18:00:02 <div id="post49" class="post49"> <q>“上课你有积极发言吗？” “你才鸡鸡发炎呢！”</q> </div>
+2020-05-17_19:00:02 <div id="post70" class="post70"> <font>“我想去旅游” “去哪里？” “我想去你被窝一日游”</font> </div>
