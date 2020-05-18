@@ -539,3 +539,4 @@
 2020-05-18_05:00:02 <div id="post33" class="post33"> <article>你别想跑，就在这里陪我吧！</article> </div>
 2020-05-18_06:00:02 <div id="post65" class="post65"> <font>我可以抱（爆）你吗宝贝</font> </div>
 2020-05-18_07:00:03 <div id="post72" class="post72"> <article>抓壮丁</article> </div>
+2020-05-18_08:00:06 <div id="post86" class="post86"> <q>不是我迷信，你大姨妈就是我的护身符，放过我吧</q> </div>
