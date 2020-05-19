@@ -561,3 +561,4 @@
 2020-05-20_03:00:02 <div id="post80" class="post80"> <div>我在你的脸上，看到了我以后孩子的样子</div> </div>
 2020-05-20_04:00:02 <div id="post74" class="post74"> <font>陪你浪的人很多，但陪你闷的人只有我。</font> </div>
 2020-05-20_05:00:01 <div id="post94" class="post94"> <span>姑娘，每周日你快乐吗？</span> </div>
+2020-05-20_06:00:02 <div id="post36" class="post36"> <font>像我这种人，除了宠着也没其它办法了</font> </div>
