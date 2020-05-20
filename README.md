@@ -568,3 +568,4 @@
 2020-05-20_10:00:05 <div id="post17" class="post17"> <article>姑娘，你就跟我敞开胸膛说亮话吧，我保证认真看你讲话。</article> </div>
 2020-05-20_11:00:02 <div id="post68" class="post68"> <q>相亲要求：日出而做，日落而息</q> </div>
 2020-05-20_12:00:03 <div id="post39" class="post39"> <q>算了这辈子就让你蹂躏吧</q> </div>
+2020-05-20_13:00:02 <div id="post38" class="post38"> <article>现在骗子特别多，大家出门要小心了。今天街上有个人说快要热死了热死了，我跟了他三条街他都没死</article> </div>
