@@ -573,3 +573,4 @@
 2020-05-20_15:00:05 <div id="post38" class="post38"> <span>有个人丁丁很短于是…他去学了拉丁舞</span> </div>
 2020-05-20_16:00:03 <div id="post57" class="post57"> <article>姐夫，能不能天天晚上别打我姐了</article> </div>
 2020-05-20_17:00:02 <div id="post76" class="post76"> <q>不是我迷信，你大姨妈就是我的护身符，放过我吧</q> </div>
+2020-05-20_18:00:02 <div id="post78" class="post78"> <div>你终会发现，你需要的并不是一个异性，而是一个可以沟通的灵魂。</div> </div>
