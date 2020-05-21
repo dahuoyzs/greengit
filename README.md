@@ -595,3 +595,4 @@
 2020-05-21_13:00:02 <div id="post9" class="post9"> <div>如果哪天喝醉吻了你 不用原谅 我保证我是故意的</div> </div>
 2020-05-21_14:00:05 <div id="post21" class="post21"> <font>今晚一起玩个游戏 叫你动我不动</font> </div>
 2020-05-21_15:00:03 <div id="post48" class="post48"> <article>What would you like me to wear to bed tonight?</article> </div>
+2020-05-21_16:00:03 <div id="post57" class="post57"> <div>你终会发现，你需要的并不是一个异性，而是一个可以沟通的灵魂。</div> </div>
