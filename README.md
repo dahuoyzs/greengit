@@ -623,3 +623,4 @@
 2020-05-22_17:00:02 <div id="post53" class="post53"> <article>人生苦短，给你颗糖</article> </div>
 2020-05-22_18:00:01 <div id="post51" class="post51"> <cite>你笑起来很甜，尝起来很咸</cite> </div>
 2020-05-22_19:00:02 <div id="post2" class="post2"> <p>“你喜欢我什么，除了帅？” “喜欢你离我近一点”</p> </div>
+2020-05-22_20:00:02 <div id="post56" class="post56"> <font>喝最烈的酒，操最爱的人</font> </div>
