@@ -645,3 +645,4 @@
 2020-05-23_15:00:02 <div id="post48" class="post48"> <span>“为什么分手？我到底哪里不好？” “你到不了底。”</span> </div>
 2020-05-23_16:00:02 <div id="post40" class="post40"> <q>这个星期日你有空吗</q> </div>
 2020-05-23_17:00:03 <div id="post66" class="post66"> <font>我对床上用品的要求很高，你是我最满意的。</font> </div>
+2020-05-23_18:00:03 <div id="post28" class="post28"> <font>以前化成灰的人都能认得出，现在化个妆就认不出了。</font> </div>
