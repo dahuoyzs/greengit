@@ -639,3 +639,4 @@
 2020-05-23_09:00:01 <div id="post9" class="post9"> <q>不想吃糖想吃你，不想揉风想揉你。</q> </div>
 2020-05-23_10:00:02 <div id="post99" class="post99"> <p>你搞艺术，我搞你，这叫深入艺术。</p> </div>
 2020-05-23_11:00:02 <div id="post31" class="post31"> <cite>所有刻骨铭心的爱都是灵魂游离于床上的瞬间！</cite> </div>
+2020-05-23_12:00:02 <div id="post4" class="post4"> <article>情话是我抄的，但只说给你听是真的。</article> </div>
