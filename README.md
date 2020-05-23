@@ -657,3 +657,4 @@
 2020-05-24_03:00:02 <div id="post6" class="post6"> <p>最美莫过于未来有一天，睡前吻你，半夜抱你，醒来有你。</p> </div>
 2020-05-24_04:00:02 <div id="post44" class="post44"> <article>庆幸我床上有你</article> </div>
 2020-05-24_05:00:02 <div id="post63" class="post63"> <p>落叶归根，我归你</p> </div>
+2020-05-24_06:00:02 <div id="post51" class="post51"> <article>我的世界不允许你的消失，不管结局是否完美。</article> </div>
