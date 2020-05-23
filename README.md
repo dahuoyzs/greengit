@@ -637,3 +637,4 @@
 2020-05-23_07:00:02 <div id="post80" class="post80"> <span>想保护你，然后收点保护费 想亲你，然后收点封口费</span> </div>
 2020-05-23_08:00:01 <div id="post67" class="post67"> <font>"我想要你"</font> </div>
 2020-05-23_09:00:01 <div id="post9" class="post9"> <q>不想吃糖想吃你，不想揉风想揉你。</q> </div>
+2020-05-23_10:00:02 <div id="post99" class="post99"> <p>你搞艺术，我搞你，这叫深入艺术。</p> </div>
